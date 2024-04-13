@@ -80,3 +80,4 @@ function filtratrInformacion(){
 //en la Carpeta scripts van TODOS los archivos de JS PERO destinados a darle dinamismo al sitio web NO SE RELACIONAN CON LA FUNCIONALIDAD DELSITIO A NIVEL DEL BACKEND
 
 //NODE JS -> Utiizamos para poder implementar js en nuestro icken -> Operaciones logicas nos permiten el FUNCIONAMIENTO de nuestro sitio web backend -> Operaciones logicas nos permiten el FUNCIONAMIENTO de nuestro sitio web 
+         
