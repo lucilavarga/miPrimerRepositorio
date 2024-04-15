@@ -1,7 +1,7 @@
 console.log ("HOLA,MUNDO!")
 // esta es la forma de comentar en JS
 // CONSOLE.LOG -> la forma de enviar mensajes a la consola del navegador
-console.log("HOLA DESARROLLADORES Y pSICOLOGOS")
+console.log("HOLA DESARROLLADORES Y PSICOLOGOS")
 console.log ("mi")
 
 //CONCEPTOS BASICOS EN JAVASCRIPT
